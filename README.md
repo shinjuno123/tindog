@@ -1,6 +1,6 @@
 # :dog: Tindog :dog:
 
-## :one: Technique Stack
+## :one: Technical Stack
 
 - HTML
 - CSS
